@@ -1,0 +1,86 @@
+* {
+    border: 0px solid red;
+    font-family: sans-serif;
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+    text-align: center;
+}
+header{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    width: 70%;
+    margin: 0 auto;
+}
+th, td {
+    border: 0px solid;
+    width: 90px;
+    height: 40px;
+}
+table{
+    margin: 50px auto;
+}
+
+
+/* colour selection */
+#c{
+    color: hsl(0, 30%, 60%);
+}
+#o1{
+    color: hsl(60, 30%, 60%);
+}
+#l{
+    color: hsl(120, 30%, 60%);
+}
+#o2{
+    color: hsl(180, 30%, 60%);
+}
+#u{
+    color: hsl(240, 30%, 60%);
+}
+#r{
+    color: hsl(300, 30%, 60%);
+}
+#colour1{
+    background-color: hsl(0, 20%, 40%);
+}
+#colour2{
+    background-color: hsl(0, 25%, 40%);
+}
+#colour3{
+    background-color: hsl(0, 30%, 40%);
+}
+#colour4{
+    background-color: hsl(0, 35%, 40%);
+}
+#colour5{
+    background-color: hsl(0, 40%, 40%);
+}
+#colour6{
+    background-color: hsl(0, 45%, 40%);
+}
+#colour7{
+    background-color: hsl(0, 50%, 40%);
+}
+#colour8{
+    background-color: hsl(0, 55%, 40%);
+}
+#colour9{
+    background-color: hsl(0, 60%, 40%);
+}
+#colour10{
+    background-color: hsl(0, 65%, 40%);
+}
+#colour11{
+    background-color: hsl(0, 70%, 40%);
+}
+#colour12{
+    background-color: hsl(0, 75%, 40%);
+}
+#colour13{
+    background-color: hsl(0, 80%, 40%);
+}
